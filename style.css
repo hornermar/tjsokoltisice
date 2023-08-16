@@ -72,7 +72,7 @@ table {
  flex-direction: row;
  align-items: center;
  justify-content: space-between;
- background-color: #c2e6eb;
+ background-color: rgb(220, 151, 235);
  height: 50px;
  padding: 1em;
 }
@@ -94,7 +94,7 @@ a {
  color: black;
 }
 
-li > a {
+.menu a {
  text-decoration: none;
 }
 
